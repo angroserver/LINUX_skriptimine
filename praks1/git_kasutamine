@@ -13,3 +13,9 @@ mkdir skriptimine
 
 c) sisene antud kausta
 cd skriptimine
+
+e) git remote add nimi github:aadress
+git remote add skriptimine git@github.com:angroserver/LINUX_skriptimine.git
+
+f)git remote kontroll
+git remote -v
